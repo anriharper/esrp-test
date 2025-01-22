@@ -1,0 +1,1 @@
+Out in the wilderness success boils down to how well a person can find food, water, and shelter. Survival determines the character’s survival skills, as well as their ability to cook.

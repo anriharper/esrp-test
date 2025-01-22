@@ -1,0 +1,31 @@
+Skills are divided into Combat and Non-Combat types. A starting character is given 100 points to distribute amongst their base skills as they see, raising them by one level per point spent. A base skill cannot be higher than 45, and all skills start at a base of 10. At this point, the player chooses three core skills, as described further in Section VIII under Skill Perks.
+
+#### Combat Skills
+- [[Alteration]]
+- [[Block]]
+- [[Conjuration]]
+- [[Destruction]]
+- [[Evade]]
+- [[Illusion]]
+- [[Marksman]]
+- [[One-Handed]]
+- [[Restoration]]
+- [[Throwing]]
+- [[Two-Handed]]
+- [[Unarmed]]
+
+#### Non-Combat Skills
+- [[Academics]]
+- [[Alchemy]]
+- [[Athletics]]
+- [[Deception]]
+- [[Enchanting]]
+- [[Intimidation]]
+- [[Language]]
+- [[Performance]]
+- [[Persuasion]]
+- [[Security]]
+- [[Sleight-of-Hand]]
+- [[Smithing]]
+- [[Stealth]]
+- [[Survival]]

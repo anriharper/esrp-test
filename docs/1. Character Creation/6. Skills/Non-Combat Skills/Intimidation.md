@@ -1,0 +1,1 @@
+Being imposing is more complicated than being physically large or brandishing a scary weapon. A character with a high Intimidation skill can convince others that they are not to be trifled with, or even to flee from them.

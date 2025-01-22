@@ -1,0 +1,1 @@
+Avoiding attacks in the frantic pace of combat can be both difficult and taxing. The Evade skill determines how well a character can quickly move out of harm’s way, and also helps determine how difficult it is to catch them off-guard.

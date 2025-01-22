@@ -1,0 +1,1 @@
+The block skill determines how well a character can defend themselves from physical attacks. Shields, weapons, and even martial skill can be utilized to block incoming attacks. See Universal Abilities: Blocking for more information.

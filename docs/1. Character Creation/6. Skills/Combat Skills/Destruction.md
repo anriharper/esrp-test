@@ -1,0 +1,1 @@
+Either by elemental or more direct means, Destruction is the school of magic dedicated to destroying enemies. A mage with a high Destruction skill can strike foes with frost, fire, and lightning, curse them with deadly poisons, and steal their very life force.

@@ -1,0 +1,1 @@
+It takes a lot of subtle cues to craft a good lie, and the skill of Deception determines how well a character can do this. The difficulty of deceiving someone is usually determined by the nature of the deception as well as the recipient’s ability to pick up on body language.

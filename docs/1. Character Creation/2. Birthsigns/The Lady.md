@@ -1,0 +1,1 @@
+Once per day the character can use the Lady’s Blessing to restore up to half of their maximum health

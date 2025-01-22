@@ -1,0 +1,1 @@
+Melee weapons that can easily be wielded in one hand use the One-Handed skill for attacking rolls. Daggers, short swords, long swords, maces, war axes, and chain weapons all fall into this category. Most of these weapons also have the property Off-Handed, which can be found under the Weapon Properties portion of Section VII: Items and Equipment.

@@ -1,0 +1,1 @@
+The college of Alteration encompasses spells that warp reality at the behest of the caster. Exerting one’s will on the world can be a difficult task, but a mage versed in Alteration can create light, shield themselves and others from harm, control objects out of physical reach, and even transport themselves great distances through magical means.

@@ -1,0 +1,1 @@
+Health, Stamina, and Magicka are referred to as Life Stats. Health is a measure of how much damage a character can take before they are either knocked out or killed. Stamina is their physical energy, used to perform more intense actions and reactions. Magicka is magical energy, used to cast spells.

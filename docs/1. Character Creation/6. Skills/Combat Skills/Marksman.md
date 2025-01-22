@@ -1,0 +1,1 @@
+Ranged weapons such as bows and crossbows that use mechanical forces to fire projectiles are governed by the Marksman skill.

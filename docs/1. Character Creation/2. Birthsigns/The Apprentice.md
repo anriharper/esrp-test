@@ -1,0 +1,1 @@
+The character recharges magicka twice as fast, and is irreversibly 100% weaker to all magical damage. Any magic resistance they would gain can be subtracted from this number subject to usual resistance rules.

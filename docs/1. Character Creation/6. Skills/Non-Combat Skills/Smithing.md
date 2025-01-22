@@ -1,0 +1,1 @@
+Working metal and leather as well as using tools to repair things such as carts and boats is determined by the Smithing skill. A good smith can craft and improve upon weapons and armor, as well as identify different metals and materials used in their craft.

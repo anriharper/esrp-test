@@ -1,0 +1,1 @@
+Measures the distance a character can traverse within one action or movement, measured in feet. The natural pace for most people is 30 feet, unless otherwise stated.

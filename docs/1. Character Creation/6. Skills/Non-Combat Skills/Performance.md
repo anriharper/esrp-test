@@ -1,0 +1,1 @@
+Entertainment comes in many forms and from theatre to juggling to music, the Performance skill determines how well a character can use their talents to gain attention and even admiration. It can also help them to convincingly pretend to be someone they are not.

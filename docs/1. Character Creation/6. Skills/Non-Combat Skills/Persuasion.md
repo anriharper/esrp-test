@@ -1,0 +1,1 @@
+This skill determines how well a character can convince others that they are trustworthy, assuming they are trying to do so honestly. It helps determine how good of prices they get from merchants, how likely others are to divulge secrets, and sometimes how well they can get others to change their minds.

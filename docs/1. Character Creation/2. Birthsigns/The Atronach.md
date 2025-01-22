@@ -1,0 +1,1 @@
+The character begins with 100 more maximum magicka, cannot regenerate magicka on their own (MR is always 0), and has a 25% chance to absorb any hostile spell cast at them, recharging their magicka by its base cost. While they are unable to regenerate magicka, the character can refill their magicka to full after a long rest.

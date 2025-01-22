@@ -1,0 +1,1 @@
+The college of Conjuration is seldom encouraged in scholarly orders of magic, however it is a very old and widespread practice. Spells that trap souls and siphon them into gems, raise undead minions, bind otherworldly weapons, and call forth daedra from Oblivion all belong to this skill.

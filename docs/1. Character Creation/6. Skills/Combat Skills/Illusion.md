@@ -1,0 +1,1 @@
+While Alteration tries to bend reality, the college of Illusion contains spells that alter perception. Mages can use these spells to alter behavior, project convincing images and sensations that are not really there, and even conjure illusions so frightening and realistic that they harm their enemies.

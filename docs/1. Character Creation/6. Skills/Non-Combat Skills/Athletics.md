@@ -1,0 +1,1 @@
+Physical prowess and coordination requires intense training. A character’s Athletic’s skill determines how well they climb, swim, and navigate difficult obstacles in their path. It also determines how far and high they can jump. When a character rides a mount facing obstacles or taking part in combat, Athletics is used to determine their riding skills.
