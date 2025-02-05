@@ -1,3 +1,4 @@
+# Table of Contents
 #### I. Character Creation
 - [[0. Races|Race]]
 - [[Birthsigns]]
