@@ -1,0 +1,12 @@
+Every time a character increases their player level, they are given a pool of Attribute points. A character starts by getting 5 points per level. No more than 3 points can be dedicated to a single Attribute at a time. (i.e. the 5 points can be used to add 3 points to Charisma, 1 points to Strength, and 1 point to Luck, or even 1 point to five attributes, but not 4 or 5 points to any one Attribute). Afterwards use this table to determine how many points can be allotted and with what restrictions. The first number represents the number of points that can be allotted by choice, and the second the amount given at random. The random allotment can be rolled before or after the player has allotted their own points, but must still follow the maximum point rule either way.
+
+| Player Level | Attribute Points/Rules             |
+| ------------ | ---------------------------------- |
+| 1-19         | 5+2, max of 3 to any one Attribute |
+| 20-29        | 5+3, max of 3 to any one Attribute |
+| 30-39        | 6+3, no max to any one Attribute   |
+| 40-45        | 7+3, no max to any one Attribute   |
+
+  
+
+At level 99 in an Attribute a character can begin saving points to raise that Attribute to 100, which requires 5 points. This follows the same point rules as before. (So if at level 23 the character has 98 Strength, they can raise it to 99 with two points saved, one point saved, or no points saved using 3, 2, or 1 points respectively. At level 24 they can start saving a maximum of 3 pts per level towards this, and once that amount reaches 5 the skill is raised to 100). To raise a level 100 Attribute to 105 requires 10 points, from 105 to 110 costs 15 points, from 115 to 120 costs 20 points, and finally from 115 to 120 costs 25 points.  At every level a random Attribute will also raise by 2. To determine which Attribute is raised randomly, discount any Attributes that the character has committed points to, and randomly select from the remainder with a die roll.  For example when raising Strength and Perception by 2, and Endurance by 1, there will be four Attributes remaining. A d4 is rolled for them, (1=Charisma, 2=Intelligence, 3=Agility, 4=Luck) and rolls a 4, so Luck is raised by 2 points.  If the character has any Attributes that are level 99 or higher, they can choose to omit them from this random roll before rolling. Otherwise, the random roll applies as points saved towards the next level.

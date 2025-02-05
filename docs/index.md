@@ -1,11 +1,91 @@
-# Obsidian Notes
+#### I. Character Creation
+- [[0. Races|Race]]
+- [[Birthsigns]]
+- [[Blessings, Curses]], and [[Pasts]]
+- [[Life Stats, Rates, and Pace#Life Stats||Life Stats]], [[Life Stats, Rates, and Pace#Life Rates|Rates]], and [[Life Stats, Rates, and Pace#Pace|Pace]]
+- [[Attributes]]
+- [[Skills|Skills]]
+- [[Starting Equipment]]
+#### II. Leveling
+- [[Leveling Life Stats||Life Stats]]
+- [[Leveling Attributes||Attributes]]
+- [[Leveling Skills|Skills]]
+- [[Leveling Perks, Abilities, and Spells|Perks]], [[Leveling Perks, Abilities, and Spells#Abilities|Abilities]], and [[Leveling Perks, Abilities, and Spells#Spells|Spells]]
+#### III. Basics of Play
+- [[01. Die Ranges and Target Numbers|Die Ranges and Target Numbers]]
+- [[02. Botches|Botches]]
+- [[03. Contests and Saves|Contests and Saves]]
+- [[04. Explosions and Raises|Explosions and Raises]]
+- [[05. Fate Scrolls|Fate Scrolls]]
+- [[06. Stealth|Stealth]]
+- [[07. Math|Notes on Math]]
+#### IV. Combat
+- [[01. Combat Phases|Combat Phases]]
+- [[02. Universal Abilities|Universal Abilities]]
+- [[03. Riding in Combat|Riding in Combat]]
+- [[04. Armor and Resistances|Armor and Resistances]]
+- [[05. Cover|Cover]]
+- [[06. Conditions|Conditions]]
+- [[07. Death and Unconsciousness|Death and Unconsciousness]]
+#### V. Crafting Skills
+- [[0. Alchemy|Alchemy]]
+	- [[01. Ingredients|Ingredients]]
+	- [[02. Potion Effects|Potion Effects]]
+	- [[03. Poison|Notes on Poison]]
+- [[0. Enchanting|Enchanting]]
+- [[0. Provisioning|Provisioning]]
+- [[0. Smithing|Smithing]]
+#### VI. Items and Equipment
+- [[0. Tier Requirements|Tier Requirements]]
+	- [[Armor and Shield Tier Requirements|Armor and Shield]]
+	- [[Weaponry Tier Requirements|Weaponry]]
+- Armor and Shields
+	- [[Shields]]
+	- [[Tier 1 Armor]]
+	- [[Tier 2 Armor]]
+	- [[Tier 3 Armor]]
+	- [[Tier 4 Armor]]
+	- [[Tier 5 Armor]]
+	- [[Tier 6 Armor and Shields]]
+- Weaponry
+	- [[Weapon Properties]]
+	- [[Tier 1 Weapons]]
+	- [[Tier 2 Weapons]]
+	- [[Tier 3 Weapons]]
+	- [[Tier 4 Weapons]]
+	- [[Tier 5 Weapons]]
+	- [[Tier 6 Weapons]]
+- Other Items
+	- [[3. Adventuring Supplies|Adventuring Supplies]]
+	- [[4. Crafting Equipment and Supplies|Crafting Equipment and Supplies]]
+- [[5. Other Artifacts|Other Artifacts]]
+- [[6. Trading|Trading]]
+#### VII. Perks
+- [[0. Perks|Perks]]
+	- [[1. Attribute Perks|Attribute Perks]]
+	- [[2. Skill Perks|Skill Perks]]
+#### VIII. Spells and Abilities
+- [[00. Spellcasting|Spellcasting]]
+- Spells
+	- [[1. Alteration Spells|Alteration]]
+	- [[2. Conjuration Spells|Conjuration]]
+	- [[3. Destruction Spells|Destruction]]
+	- [[4. Illusion Spells|Illusion]]
+	- [[5. Restoration Spells|Restoration]]
+- [[01. Ability Performance|Ability Performance]]
+- Abilities
+	- [[02. Athletics Abilities|Athletics]]
+	- [[03. Block Abilities|Block]]
+	- [[04. Evade Abilities|Evade]]
+	- [[05. Marksman Abilities|Marksman]]
+	- [[06 One-Handed Abilities|One-Handed]]
+	- [[07. Performance Abilities|Performance]]
+	-  [[08. Stealth Abilities|Stealth]]
+	- [[09. Throwing Abilities|Throwing]]
+	- [[10. Two-Handed Abilities|Two-Handed]]
+	- [[11. Unarmed Abilities|Unarmed]]
 
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+#### IX. Deities and Shrines
+- [[Aedra]]
+- [[Daedra]]
+- [[Others]]

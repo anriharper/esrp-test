@@ -1,0 +1,1 @@
+Each time a character levels, they may increase one other their maximum life stats by 10. Life rates are increased accordingly. Every nine levels, the character can increase any life stat by an additional 10 points (At 9, 18, 27, 36, and 45).

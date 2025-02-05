@@ -1,0 +1,11 @@
+### Life Stats
+Health, Stamina, and Magicka are referred to as Life Stats. Health is a measure of how much damage a character can take before they are either knocked out or killed. Stamina is their physical energy, used to perform more intense actions and reactions. Magicka is magical energy, used to cast spells.
+
+### Life Rates
+For player characters, as well as some tougher enemies, life stats will naturally regenerate. During combat, each stat has a life rate at which it regenerates at the end of every round. These are calculated for player characters as 5% of their maximum health, and 10% of their maximum magicka and stamina. Note that this number increases as the life stat is increased through leveling, but does not increase to fortification effects from sources such as potions and spells that increase maximum life stat values.
+
+Since they technically regenerate over the course of a round and not necessarily every six seconds, the stamina or magicka that would be regenerated at the end of a round can be utilized during the round.
+
+For the same reason, a player character can only become unconscious or killed if the damage dealt to them outweighs their health regeneration’s ability to keep their Health at a positive amount. For example a character with 20 Health who regenerates 5 Health per round can still take 24 points of damage, and go into the next round with 1 Health.
+### Pace
+Measures the distance a character can traverse within one action or movement, measured in feet. The natural pace for most people is 30 feet, unless otherwise stated.

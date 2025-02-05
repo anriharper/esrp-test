@@ -1,15 +1,14 @@
 Every player character begins with 150 septims (denoted with ‘g’ from here on) to begin buying the equipment they will start the game with. The remainder of their current wealth is determined by their income, which is an amount of gold their work and lifestyle would allow them over the course of a month. Whatever remains after buying starting equipment is gold that the character may keep on hand for the start of the game. Each player has the option to take the average income of 250g, or roll on the following table to have an income assigned randomly.
 
-|   |   |
-|---|---|
-|Roll (1d100)|Income|
-|1-5|0|
-|6-15|50|
-|16-30|150|
-|31-70|250|
-|71-85|350|
-|86-95|450|
-|96-100|550|
+| Roll (1d100) | Income |
+| ------------ | ------ |
+| 1-5          | 0      |
+| 6-15         | 50     |
+| 16-30        | 150    |
+| 31-70        | 250    |
+| 71-85        | 350    |
+| 86-95        | 450    |
+| 96-100       | 550    |
 
   
 

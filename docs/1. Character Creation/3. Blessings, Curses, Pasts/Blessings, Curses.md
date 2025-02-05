@@ -4,7 +4,7 @@ The player begins with 10 points to acquire Blessings, each of which has a cost 
 
 Ex. Character starts with 10 points, and to afford a Blessing which costs 20, they take a Curse valued at -10. ((Note: - sign could be confusing))
 
-#### Blessings
+### Blessings
 - Acute Insight (10)
 	Once per day this Blessing can be used to determine the general intentions of another person. If they wish someone harm, if they believe their own words, and other intentions are revealed to the character
 
@@ -75,7 +75,7 @@ Ex. Character starts with 10 points, and to afford a Blessing which costs 20, th
 	Once per day the character can make a signature war cry as a free action, up to a five-word phrase. Everyone in combat that is physically able hears this phrase, and enemies that hear phrase suffer a -5 to their attack rolls for one round
 
 
-#### Curses
+### Curses
 - Achilles Heel (-20)
 	Whenever the character is struck by an attack that has targeted them, they must roll 1d10. If the result is 1, the attack strikes a vulnerable spot such as a weak knee or a muscle that was injured and never fully recovered. The attack ignores any armor and resistances when dealing damage
 
